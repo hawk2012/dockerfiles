@@ -1,5 +1,5 @@
 phpbb:
-  image: vimagick/phpbb
+  image: hawk2012/phpbb
   ports:
     - "8000:80"
   volumes:
